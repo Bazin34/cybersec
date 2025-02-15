@@ -1,0 +1,2 @@
+notre systeme detecte une erreur
+la connexion a ete etablie avec succes
